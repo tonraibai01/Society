@@ -1,5 +1,5 @@
 {
-"Version":"1.9",
+"Version":"2.0",
 "Url":"https://github.com/tonraibai01/Society/raw/master/society.zip",
 "Changelog":"--------------------------------------------------
 อัพเดทวันทที่ 31 สิงหาคม 2564
